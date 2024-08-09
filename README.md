@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @CodeWizerd
-- 👀 I’m interested in Web Developer
+- 👀 I’m interested in Web Development
 - 🌱 I’m currently learning JS
 - ⚡ Fun fact:Just learning
 
