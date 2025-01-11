@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @CodeWizerd
+- 👋 Hi, I’m Subham
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning JS
 - ⚡ Fun fact:Just learning
