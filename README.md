@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Subham
+- 👋 Hi, I’m Subham 
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning React
+- 🌱 I’m currently learning React concepts
 - ⚡ Fun fact:Just learning
 
 <!---
