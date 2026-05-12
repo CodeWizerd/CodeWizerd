@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Subham
 - 👀 I’m interested in Full-Stack Web Development & Software Engineering
-- 🌱 I’m currently mastering Backend Architecture
+- 🌱 I’m currently mastering Backend Architecture and api integration
 - ⚡ Fun fact: I build automated tools, including an AI presentation generator and custom auto-responders are some of the example.
 
 <!---
